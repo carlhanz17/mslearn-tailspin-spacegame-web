@@ -1,3 +1,4 @@
+[![Build Status](https://cinfante.visualstudio.com/Space%20game%20-%20web/_apis/build/status/carlhanz17.mslearn-tailspin-spacegame-web?branchName=master)](https://cinfante.visualstudio.com/Space%20game%20-%20web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
